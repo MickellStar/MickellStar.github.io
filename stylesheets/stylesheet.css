@@ -6,3 +6,12 @@ html, body {
   margin: 0;
   padding: 0;
 }
+
+a {
+  border: 2px;
+}
+
+p {
+  border: 2 2 2 2;
+  background-color: blue;
+}
