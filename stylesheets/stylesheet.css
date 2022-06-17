@@ -12,6 +12,5 @@ a {
 }
 
 p {
-  border: 2 2 2 2;
-  background-color: blue;
+  size: 40pt;
 }
